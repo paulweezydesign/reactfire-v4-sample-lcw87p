@@ -1,0 +1,20 @@
+{
+  "name": "reactfire-sample",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "reactfire": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
